@@ -38,22 +38,6 @@ This project is built to practice frontend development, JavaScript concepts, and
 ## 📸 Project Preview
 <img width="1013" height="634" alt="Screenshot 2026-11-19 071617" src="https://github.com/user-attachments/assets/edf33ad3-cf42-4804-8906-a7f1935a7835" />
 
-
-
-## 🚀 Getting Started
-
-
-## 📂 Project Structure
-
-Weather-App/
-│
-├── index.html
-├── style.css
-├── script.js
-├── screenshot.png
-└── README.md
-```
-
 ## 📚 What I Learned
 
 While developing this project, I practised:
@@ -80,5 +64,5 @@ Frontend Development Learner | SMIT Student
 <p align="center">
   ⭐ If you like this project, feel free to explore the repository!
   
-  **Made with 🤍 and curiosity.**
+  **Made with ❤️ and curiosity.**
 </p>
